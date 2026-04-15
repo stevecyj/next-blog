@@ -42,6 +42,7 @@ Produce a note in Traditional Chinese with these sections:
 - Do not copy the subtitle line by line.
 - Compress repetitive teaching filler into concise conclusions.
 - Prefer practical, reusable guidance over passive summary.
+- State the main learning objective directly. Avoid padded contrast patterns like `不是…而是…` unless the contrast is genuinely necessary for technical accuracy.
 - If the transcript contains outdated or version-sensitive claims, correct them against the local project and local docs before writing.
 - Keep the note actionable: the learner should be able to do something immediately after reading it.
 
@@ -49,6 +50,7 @@ Produce a note in Traditional Chinese with these sections:
 
 - Write in Traditional Chinese.
 - Prefer concise headings and high-signal bullets.
+- Prefer direct statements over rhetorical framing. Do not use `不是…而是…` as a default explanatory template.
 - When the chapter is about a concrete codebase, anchor the note to real file paths and current project structure.
 - When a specific path is provided, write the result directly to that file instead of only replying in chat.
 
