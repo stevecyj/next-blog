@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chapter VTT Note"
+  short_description: "Turn chapter subtitles into study notes"
+  default_prompt: "Use $chapter-vtt-note to turn this subtitle file into a chapter note with core ideas, action steps, and reusable prompts."
